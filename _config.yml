@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Abhinav Pandey"
-  avatar : "/assets/images/logo.gif"
+  avatar : "/assets/images/ap.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
